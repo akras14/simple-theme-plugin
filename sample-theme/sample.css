@@ -1,11 +1,7 @@
 @charset "utf-8";
 
-
-body { 
-  font-size: 60%; 
-}
-
 body, table, form, input, td, th, p, textarea, select {
+  font-size: 10px !important;
   font-family: "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3",
   "Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック", "MS P Gothic","Osaka",
   Verdana,Arial, Helvetica, sans-serif;
